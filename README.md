@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilakshee</h1>
-<h3 align="center"><i>A Web Development Enthusiast</i></h3>
+<h3 align="center"><i>A Data Science Enthusiast</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilakshee-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rks-031" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 **Mern-Stack Developer**
 - 👩‍💻 Currently exploring microservices and system design using **Python** & **Kubernetes** 
-- 📫 Mail me at: **sahunilakshee@gmail.com**
+- 📫 Mail me at: **nilaksheesahu06@gmail.com**
 
 - ⚡ Fun fact **Not a geek, still a geek!**
 
