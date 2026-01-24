@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilakshee</h1>
-<h3 align="center"><i>A Data Science Enthusiast</i></h3>
+<h3 align="center"><i>A Tech Enthusiast</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilakshee-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rks-031" /> </p>
 
