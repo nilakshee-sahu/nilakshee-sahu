@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilakshee</h1>
 <h3 align="center"><i>A Tech Enthusiast</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilakshee-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="rks-031" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilakshee-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="nilakshee-sahu" /> </p>
 
 <p align="left"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=nilakshee-sahu" alt="nilakshee-sahu" /></a> </p>
  
 - 📫 Mail me at: **nilaksheesahu06@gmail.com**
-
-- ⚡ Fun fact **Not a geek, still a geek!**
 
 **Connect With Me:** 
 
